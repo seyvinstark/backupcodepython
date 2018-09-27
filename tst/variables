@@ -1,0 +1,43 @@
+#python doesnt need to specify the datatype it happens when u assign it
+
+counter=24
+miles= 24.3
+name="sammy gasana"
+
+print("and the name is "+name) #a string
+print(counter)#an integer
+print(miles)#a floating point
+
+#to assing one value to a lot of variables
+a=b=c=d=45
+print(a)
+print(b)
+print(c)
+print(d)
+#the datatype we normally use are number,list,tuple,string,dictionary
+#to delete a variable
+var1=34
+print(var1)
+del var1
+#strings
+str='hello world'
+print(str)
+print(str[0])#print the first character of the string
+print(str[2:5])#print the 3rd to the 5th
+print(str[2:])#from 3rd to the last
+print(str * 2)#print 2 times
+print(str+" my name  is jarvis")
+
+#now we talk about lists
+list1=['sammy',21,' first seyvin in a millenia']
+list2=['long live the king',11000]
+print(list1)
+
+print(list1[0])#first item on the list
+print(list1[0:2])#first to second
+print(list1+list2)#first item on the list
+
+
+
+
+

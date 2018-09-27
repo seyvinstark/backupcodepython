@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html >
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Creepy Website | </title>
+		<link href="https://fonts.googleapis.com/css?family=Barlow:500,800" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/main.css" />
+		
+	</head>
+	<body class="demo-3 loading">
+		<main>
+			<div class="grid">
+
+				<div class="grid__item">
+					<div class="glitch glitch--style-1">
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+					</div>
+					<h2 class="grid__item-title">Creepy Things <span> be scared</span></h2>
+				</div>
+				<div class="grid__item">
+					<div class="glitch glitch--style-2">
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+					</div>
+					<h2 class="grid__item-title">in the Dark <span>i took a picture</span></h2>
+				</div>
+				<div class="grid__item">
+					<div class="glitch glitch--vertical glitch--style-3">
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+					</div>
+					<h2 class="grid__item-title">the Girl <span>little Witch</span></h2>
+				</div>
+				<div class="grid__item">
+					<div class="glitch glitch--style-4">
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+					</div>
+					<h2 class="grid__item-title">Chair <span>Interogation Room</span></h2>
+				</div>
+				<div class="grid__item">
+					<div class="glitch glitch--style-5">
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+					</div>
+					<h2 class="grid__item-title">Clowns <span>i don't like them</span></h2>
+				</div>
+				<div class="grid__item">
+					<div class="glitch glitch--style-6">
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+						<div class="glitch__img"></div>
+					</div>
+					<h2 class="grid__item-title">Drowns <span>Desperation</span></h2>
+				</div>
+			</div>
+		</main>
+	</body>
+</html>
