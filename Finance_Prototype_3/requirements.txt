@@ -48,7 +48,7 @@ pipenv==2018.5.18
 prompt-toolkit==1.0.15
 pyasn1==0.4.3
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
 python-dateutil==2.7.3
